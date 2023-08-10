@@ -59,8 +59,7 @@ span {
   }
 
 header img {
-  width: 15vw;
-  padding: 10px;
+  width: 15px auto;
   float: left;
   box-align: center;
 }
